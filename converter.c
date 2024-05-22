@@ -77,8 +77,6 @@ printf("Welcome to Converter application!\n1.Temperature\n2.Weight\n3.Currency\n
 scanf("%d",&opt);
 convertor(opt);
 
-
-
 	return 0;
     }
 
